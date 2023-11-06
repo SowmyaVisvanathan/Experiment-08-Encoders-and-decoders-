@@ -73,6 +73,7 @@ RegisterNumber:
 
 ### RTL LOGIC  
 
+![image](https://github.com/SowmyaVisvanathan/Experiment-08-Encoders-and-decoders-/assets/119475775/682b9fab-bbe6-4a76-baec-10253c52127d)
 
 
 
