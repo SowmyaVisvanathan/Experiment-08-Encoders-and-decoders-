@@ -110,9 +110,12 @@ endmodule
 
 
 
-### TIMING DIGRAMS  
+### TIMING DIAGRAMS  
+
+![image](https://github.com/SowmyaVisvanathan/Experiment-08-Encoders-and-decoders-/assets/119475775/9568991e-003e-4521-9bb9-feca72bd7ecd)
 
 
+![image](https://github.com/SowmyaVisvanathan/Experiment-08-Encoders-and-decoders-/assets/119475775/8134d172-f146-45b6-9403-1db64b4cb73d)
 
 
 
